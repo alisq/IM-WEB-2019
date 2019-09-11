@@ -1,0 +1,21 @@
+body {
+	background:black;
+	color:white;
+	font-size:24px;
+	/*font-family:helvetica;*/
+}
+
+
+h1 {
+	font-weight:normal;
+	font-size:10em;
+}
+
+p {
+	width:800px;
+}
+.fp {
+	font-size: 1.2em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
